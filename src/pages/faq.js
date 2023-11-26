@@ -1,1 +1,1 @@
-import '../styles/faq.css';
+import '../styles/App.css';

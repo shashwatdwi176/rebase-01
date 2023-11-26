@@ -1,1 +1,1 @@
-import '../styles/timeline.css';
+import '../styles/App.css';
