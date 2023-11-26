@@ -1,8 +1,9 @@
-import './App.css';
+import '../styles/App.css';
 
 function App() {
   return (
     <div className="App">
+      <h1>Rebase {'<'}01{'>'}</h1>
     </div>
   );
 }
